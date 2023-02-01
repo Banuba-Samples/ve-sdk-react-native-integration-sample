@@ -18,7 +18,6 @@ Feel free to [contact us](https://www.banuba.com/faq/kb-tickets/new) if you have
 2. Install [Expo CLI](https://docs.expo.dev/get-started/installation/)
 3. Complete [Running On Device](https://reactnative.dev/docs/running-on-device)
 4. Run ```yarn install``` to install required project dependencies.
-5. Set Banuba license token [within the app](App.js#L14).
 
 ### Run on Android
 1. Make sure variable ```ANDROID_SDK_ROOT``` is set in your environment or setup [sdk.dir](android/local.properties#L1).
